@@ -1,3 +1,17 @@
+🚀 NVIDIA 發表 GENMO：人類動作的「通才模型」登場！
+你知道嗎？以前 AI 想生成角色動作、或從影片估出 3D 骨架，要用兩個不同模型。
+ 現在 NVIDIA 把這兩件事「合而為一」——推出 GENMO（Generalist Model for Human Motion） 🎯
+這是一個能「看影片就還原 3D 動作」又能「根據文字、音樂或關鍵姿勢生成全新動作」的通用模型。
+它同時懂：
+🎥 從影片估出全身 3D 動作與攝影機移動
+💃 聽音樂生舞蹈、看文字生動作
+✋ 依照 3D 關鍵姿勢或 2D 骨架引導
+🧩 不同條件可以「時間軸混搭」，自動銜接過場！
+ 這對機器人學習來說，它可以把人類影片變成可學習的 3D 動作資料。
+ 這讓「人類動作理解」與「AI 動作創作」終於能在同一模型中協同。
+📘 更多資訊：
+ICCV 2025 Highlight 論文 https://research.nvidia.com/labs/dair/genmo/......
+
 <p align="center">
  <h1 align="center"> GENMO: A Generalist Model for Human Motion</h1>
   <p align="center">
